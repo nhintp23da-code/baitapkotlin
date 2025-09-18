@@ -1,3 +1,4 @@
+package com.example.lab1
 class SinhVien {
     private var ma:Int = 0
     private var ten:String = ""
@@ -50,3 +51,4 @@ fun main(args: Array<String>) {
     hanh.xuatThongTin()
     println("Ten viet hoa: " + hanh.layTenVietHoa())
 }
+
